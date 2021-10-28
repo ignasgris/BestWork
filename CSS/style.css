@@ -1,0 +1,23 @@
+:root {
+    --orange: #fca311;
+    --black: #343a40;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    ;
+}
+
+.nav-link {
+    color: black;
+}
+
+.absolute {
+    position: absolute;
+    bottom: -16px;
+    right: 6px;
+    width: 290px;
+    border-radius: 3px;
+    text-align: right;
+    padding: 5px 10px 5px 0px;
+}
